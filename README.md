@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @hp-gavb
 - 👀 I’m interested in Operational Research
-- 🌱 I’m currently learning Operational Research
-- 💞️ I’m looking to collaborate on Operational Research
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/helano-pessoa/)
 
 <!---
